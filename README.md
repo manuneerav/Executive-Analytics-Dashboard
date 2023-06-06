@@ -7,8 +7,8 @@ we've been tasked with building a top-level KPI dashboard for the executive team
 
 ### KPI's
 Sales trends<br>
-Product performance
-Key customers
-Shipping costs
+Product performance<br>
+Key customers<br>
+Shipping costs<br>
 
 
