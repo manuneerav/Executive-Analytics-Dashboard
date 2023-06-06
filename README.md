@@ -6,7 +6,7 @@ Northwind Traders, a global import and export company that specializes in supply
 we've been tasked with building a top-level KPI dashboard for the executive team. Its purpose should be to allow them to quickly understand the company's performance in key areas, including:
 
 ### KPI's
-Sales trends
+Sales trends<br>
 Product performance
 Key customers
 Shipping costs
